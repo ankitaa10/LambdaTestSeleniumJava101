@@ -46,6 +46,7 @@ OUTPUTS:
 
 Detailed console output
 We can see the testscenario status in lambdatest page under Automation->Builds
-OUTPUT IN CONSOL OF ECLIPSE
+OUTPUT IN CONSOLE OF ECLIPSE
 
-=============================================== Parallel Test Suite Total tests run: 12, Passes: 12, Failures: 0, Skips: 0
+=============================================== Parallel Test 
+Suite Total tests run: 12, Passes: 12, Failures: 0, Skips: 0
